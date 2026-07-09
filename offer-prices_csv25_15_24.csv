@@ -1,5 +1,5 @@
 external_Id;factory_article;barcode;size;offer_code;quantity;base_price;discount_price
 csvoffSourse;csvoffcopy_Soursedelete1-Qatest1s;csvoff_Sourse1;42;mp1882709;10;1567.00;700.00
-csvoffSourse;csvoffcopy_Soursedelete1-Qatest1s;csvoff_Sourse2;43;mp1882709;11;1567.00;700.00
+csvoffSourse;csvoffcopy_Soursedelete1-Qatest1s;csvoff_Sourse2;43;mp1882709;10;1567.00;700.00
 copy_csvoffSourse;copy_csvoffcopy_Soursedelete1-Qatest1s;copy_csvoff_Sourse1;42;mp1882709;12;1567.00;700.00
 copy_csvoffSourse;copy_csvoffcopy_Soursedelete1-Qatest1s;copy_csvoff_Sourse2;43;mp1882709;11;1567.00;700.00
